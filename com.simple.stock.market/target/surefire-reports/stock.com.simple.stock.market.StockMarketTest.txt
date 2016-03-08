@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: stock.com.simple.stock.market.StockMarketTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE!
+testcalculatePERatioFailure(stock.com.simple.stock.market.StockMarketTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at stock.com.simple.stock.market.StockMarketTest.testcalculatePERatioFailure(StockMarketTest.java:44)

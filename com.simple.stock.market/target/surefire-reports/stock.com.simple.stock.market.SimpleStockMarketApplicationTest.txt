@@ -1,0 +1,42 @@
+-------------------------------------------------------------------------------
+Test set: stock.com.simple.stock.market.SimpleStockMarketApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.029 sec <<< FAILURE!
+testSimpleStockMarketApplicationFailure(stock.com.simple.stock.market.SimpleStockMarketApplicationTest)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.Error: Unresolved compilation problems: 
+	The import org.apache cannot be resolved
+	Logger cannot be resolved to a type
+	Logger cannot be resolved
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+
+	at stock.com.simple.stock.market.SimpleStockMarketApplication.<init>(SimpleStockMarketApplication.java:9)
+	at stock.com.simple.stock.market.SimpleStockMarketApplicationTest.testSimpleStockMarketApplicationFailure(SimpleStockMarketApplicationTest.java:39)
+testSimpleStockMarketApplicationPass(stock.com.simple.stock.market.SimpleStockMarketApplicationTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Error: Unresolved compilation problems: 
+	The import org.apache cannot be resolved
+	Logger cannot be resolved to a type
+	Logger cannot be resolved
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+	Logger cannot be resolved to a type
+
+	at stock.com.simple.stock.market.SimpleStockMarketApplication.<init>(SimpleStockMarketApplication.java:9)
+	at stock.com.simple.stock.market.SimpleStockMarketApplicationTest.testSimpleStockMarketApplicationPass(SimpleStockMarketApplicationTest.java:52)
